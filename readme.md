@@ -24,6 +24,7 @@ This application is a basic To-Do Application where User Interface is written in
 <h6>I did this application in Laravel 5.2 and use MySQL Database.</h6>
 
 1.	Download Zip or if you have GIT installed then write on your terminal/cmd
+
 <code>git clone https://github.com/kaiser-tushar/Bangla-To-Do-Application-in-Laravel-5.2.git</code>
 
 2.	Go to project folder. 
