@@ -49,6 +49,10 @@ This application is a basic To-Do Application where User Interface is written in
 
 ![Alt text](http://imgur.com/FlhKUNE.png)
 
+<b>For windows:</b> <code> copy default.env.example .env </code>
+
+<b>For Mac/Linux:</b> <code> cp  default.env.example .env  </code>
+
 6.Write the confuguration in .env file (ex: database name,username,password)
 
 ![Alt text](http://imgur.com/GgxmxKi.png)
