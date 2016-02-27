@@ -47,11 +47,13 @@ This application is a basic To-Do Application where User Interface is written in
  
 5.change the <b>default.env.example</b> file name to <b>.env</b>
 
-![Alt text](http://imgur.com/FlhKUNE.png)
-
 <b>For windows:</b> <code> copy default.env.example .env </code>
 
 <b>For Mac/Linux:</b> <code> cp  default.env.example .env  </code>
+
+![Alt text](http://imgur.com/FlhKUNE.png)
+
+
 
 6.Write the confuguration in .env file (ex: database name,username,password)
 
